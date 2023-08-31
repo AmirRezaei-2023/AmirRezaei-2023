@@ -26,7 +26,8 @@ Wanna find me? jusy click below:
   <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZ5BNWzeLNHwVvSvMEowVvvjmkQRtN2VA-nFLvymaxQ&s" alt="LinkedIn Badge"/>
   <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
-        <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZ5BNWzeLNHwVvSvMEowVvvjmkQRtN2VA-nFLvymaxQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLN68TOrtiYzs6jvh1NbQMF3ykCKICJPtU6sR2g3Y6A&s)" alt="Kaggle Badge"/>
+        <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="Kaggle Badge"
+          width="75" height="120"/>
   </a>
 </div>
 <div id="profile" align="center">
