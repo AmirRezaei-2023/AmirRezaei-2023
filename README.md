@@ -1,19 +1,36 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFiemZlYTVsdjBvamVxZm53OGxmcnNxN3Qyb2NsZzY4bjU1aGt6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="100"/>
+<h1 align="center">
+  
+  hey friends!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+</h1>
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  
 </div>
+
+I am curious about machine learning and deep learning as well as data analysis <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+As a young analyst, I seek to learn new things and improve myself continuously.
+
+I like to share my experiences here and use the experiences of others to improve my abilities.
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirRezaei-teh-2023&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+Wanna find me? jusy click below:
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZ5BNWzeLNHwVvSvMEowVvvjmkQRtN2VA-nFLvymaxQ&s" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
+        <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZ5BNWzeLNHwVvSvMEowVvvjmkQRtN2VA-nFLvymaxQ&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuLN68TOrtiYzs6jvh1NbQMF3ykCKICJPtU6sR2g3Y6A&s)" alt="Kaggle Badge"/>
   </a>
 </div>
 <div id="profile" align="center">
           <img src="https://komarev.com/ghpvc/?username=AmirRezaei-teh-2023&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
-  hey friends!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
