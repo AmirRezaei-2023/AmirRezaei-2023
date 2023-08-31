@@ -3,15 +3,12 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Famir-rezaei-tehranuniversity?style=for-the-badge&logo=Linkedin&logoColor=%230A66C2&label=LinkedIn&color=white)" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://komarev.com/ghpvc/?username=AmirRezaei-teh-2023&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
