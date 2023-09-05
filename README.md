@@ -1,15 +1,17 @@
 <h1 align="center">
   
-  hey friends!
+  Hi friends! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 </h1>
 
 <div align="center">
 
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966" width="600" height=auto/>
   
 </div>
+
+---
 
 I am curious about machine learning and deep learning as well as data analysis <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -17,17 +19,24 @@ As a young analyst, I seek to learn new things and improve myself continuously.
 
 I like to share my experiences here and use the experiences of others to improve my abilities.
 
+---
+
+### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirRezaei-teh-2023&theme=dark&background=000000)](https://git.io/streak-stats)
 
+---
 
-Wanna find me? jusy click below:
+Wanna find me? just click the links below:
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPZ5BNWzeLNHwVvSvMEowVvvjmkQRtN2VA-nFLvymaxQ&s" alt="LinkedIn Badge"/>
+        <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn Badge"
+          width="200" height=auto/>
+    </a>
   <a href="https://www.kaggle.com/amirrezaei97">
-        <img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" alt="Kaggle Badge"
-          width="75" height="120"/>
+        <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kaggle-icon.png" alt="Kaggle Badge"
+           width="125" height=auto/>
   </a>
 </div>
 <div id="profile" align="center">
