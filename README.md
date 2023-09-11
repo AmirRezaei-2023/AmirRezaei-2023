@@ -15,7 +15,7 @@
 
 I am curious about machine learning and deep learning as well as data analysis <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-As a young analyst, I seek to learn new things and improve myself continuously.
+As a young analyst, I seek to learn new things and improve myself continuously!
 
 I like to share my experiences here and use the experiences of others to improve my abilities.
 
