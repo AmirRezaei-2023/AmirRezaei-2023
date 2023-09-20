@@ -23,9 +23,10 @@ I like to share my experiences here and use the experiences of others to improve
 
 ### :fire: My Stats :
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirRezaei-2023&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaei-2023)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirRezaei-2023&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
