@@ -32,7 +32,7 @@ I like to share my experiences here and use the experiences of others to improve
 Wanna find me? just click the links below:
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amir-rezaei-tehranuniversity">
+  <a href="https://www.linkedin.com/in/amir-rezaei-tehran">
         <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn Badge"
           width="200" height=auto/>
     </a>
