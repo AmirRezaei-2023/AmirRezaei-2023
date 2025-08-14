@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="Pic_Github_Overview2.jpg" width="100" height=auto/>
+  <img src="Pic_Github_Overview2.jpg" width="200" height=auto/>
   
 </div>
 
