@@ -34,11 +34,11 @@ Wanna find me? just click the links below:
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amir-rezaei-tehran">
         <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn Badge"
-          width="200" height=auto/>
+          width="150" height=auto/>
     </a>
   <a href="https://www.researchgate.net/profile/Amir-Rezaei-16?ev=hdr_xprf">
-        <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kaggle-icon.png" alt="Kaggle Badge"
-           width="125" height=auto/>
+        <img src="images.png" alt="Kaggle Badge"
+           width="75" height=auto/>
   </a>
 
 
