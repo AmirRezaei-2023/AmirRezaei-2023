@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="[Pic_Github_Overview.jpg](https://github.com/AmirRezaei-2023/Pixs/blob/f70a338acd6f09a72d35555375dd78e558ae60e7/Pic_Github_Overview2.jpg)" width="600" height=auto/>
+  <img src="Pic_Github_Overview2.jpg" width="600" height=auto/>
   
 </div>
 
