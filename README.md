@@ -42,7 +42,7 @@ Wanna find me? just click the links below:
   </a>
 </div>
 <div id="profile" align="center">
-          <img src="https://komarev.com/ghpvc/?username=AmirRezaei-2023&style=flat-square&color=blue" alt=""/>
+          <img src="https://www.researchgate.net/profile/Amir-Rezaei-16?ev=hdr_xprf&style=flat-square&color=blue" alt=""/>
 </div>
 
 
