@@ -36,13 +36,10 @@ Wanna find me? just click the links below:
         <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="LinkedIn Badge"
           width="200" height=auto/>
     </a>
-  <a href="https://www.kaggle.com/amirrezaei97">
+  <a href="https://www.researchgate.net/profile/Amir-Rezaei-16?ev=hdr_xprf">
         <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/kaggle-icon.png" alt="Kaggle Badge"
            width="125" height=auto/>
   </a>
-</div>
-<div id="profile" align="center">
-          <img src="https://www.researchgate.net/profile/Amir-Rezaei-16?ev=hdr_xprf&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 
